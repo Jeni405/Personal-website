@@ -4,7 +4,7 @@ import { faLinkedin, faInstagram, faGithub } from '@fortawesome/free-brands-svg-
 import { faHouse, faUser, faFile, faBriefcase, faEnvelope, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'
 
 import { Link, Element } from 'react-scroll'
-import Jenisha from "./img/Jenisha.jpg";
+import Jenisha from "../Components/img/Jenisha.jpg";
 
 
 const Navbar = () => {

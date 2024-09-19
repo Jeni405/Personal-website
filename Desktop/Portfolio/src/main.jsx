@@ -4,8 +4,8 @@ import App from './App.jsx'
 import './index.css'
 import './Fontawesome.jsx'
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import ServiceDetails from './assets/Components/ServiceDetails.jsx'
-import Navbar from './assets/Components/Navbar.jsx'
+import ServiceDetails from './Components/ServiceDetails.jsx'
+import Navbar from './Components/Navbar.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>

@@ -1,9 +1,9 @@
-import Navbar from './assets/Components/Navbar'
-import About from './assets/Components/About'
-import Resume from './assets/Components/Resume'
-import Services from './assets/Components/Services'
-import Contact from "./assets/Components/Contact"
-import Footer from "./assets/Components/Footer"
+import Navbar from './Components/Navbar'
+import About from './Components/About'
+import Resume from './Components/Resume'
+import Services from './Components/Services'
+import Contact from "./Components/Contact"
+import Footer from "./Components/Footer"
 function App() {
 
   return (
